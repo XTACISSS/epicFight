@@ -21,3 +21,9 @@ Para ejecutar este programa, se requiere tener instalado Node.js en el sistema.
 6. El programa seleccionará aleatoriamente a cinco superhéroes para cada equipo y los mostrará en la consola.
 7. Los equipos se enfrentarán en una batalla épica, donde se calcularán los puntos de vida (HP) y los ataques de cada superhéroe.
 8. Al final de la batalla, se mostrará el equipo ganador y se enviarán los resultados por correo electrónico a los destinatarios especificados.
+9. PD: Mailgun solo manda a correos autorizados, probe mandando al mio y si lo envia, no como esperaba pero ya no tengo mucho mas tiempo 😅
+
+   
+![imagen](https://github.com/XTACISSS/epicFight/assets/37029083/a58d377f-8b4c-4ea2-a38e-e63dab4f1a8c)
+
+![imagen](https://github.com/XTACISSS/epicFight/assets/37029083/f29b89fa-68d1-4fd0-9764-8946bd2b3534)
