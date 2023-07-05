@@ -2,10 +2,10 @@ const axios = require('axios');
 const FormData = require('form-data');
 const readline = require('readline')
 
-// Api key mailgun 795768ae518fdafd1e6c30082457d80f-135a8d32-7c2d0a0c
-const mailgunApiKey = '795768ae518fdafd1e6c30082457d80f-135a8d32-7c2d0a0c';
-const mailgunDomain = 'sandbox0c0b54fa361a4c3bb5611fcd865a5583.mailgun.org'
-const emailSender = 'mailgun@sandbox-123.mailgun.org'
+// Api key mailgun 
+const mailgunApiKey = '';
+const mailgunDomain = ''
+const emailSender = ''
 
 // Funcion para enviar el email
 async function sendEmail(to, subject, body) {
